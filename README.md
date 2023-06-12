@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **PHP Laravel**
 
-- 💬 Ask me about **React.js, JavaScript, Java**
-
 - 📫 How to reach me **zejnullahulisi@outlook.com**
 
 - 📄 Know about my experiences [https://lisizejnullahu.github.io/Resume-Website/](https://lisizejnullahu.github.io/Resume-Website/)
