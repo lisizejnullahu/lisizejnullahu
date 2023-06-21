@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Lisi</h1>
 <h3 align="center">Junior Full stack developer from Kosovo</h3>
 
-- 🌱 I’m currently learning **PHP Laravel**
+-  How to reach me **zejnullahulisi@outlook.com**
 
-- 📫 How to reach me **zejnullahulisi@outlook.com**
-
-- 📄 Know about my experiences [https://lisizejnullahu.github.io/Resume-Website/](https://lisizejnullahu.github.io/Resume-Website/)
+-  Know about my experiences [https://lisizejnullahu.github.io/Resume-Website/](https://lisizejnullahu.github.io/Resume-Website/)
 
 
 <p align="left">
