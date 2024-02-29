@@ -53,13 +53,10 @@ I'm a Software Engineer who loves working on both Full-Stack & Mobile Developmen
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+  	    <li><b>OS:</b> MacOS 14 Sonoma</li>
+	    <li><b>Laptop: </b> Macbook Pro M2 Pro</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, ClickUp, Slack</li>
 	</ul>
 </details>
 
@@ -67,6 +64,6 @@ I'm a Software Engineer who loves working on both Full-Stack & Mobile Developmen
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+
 
 </div>
