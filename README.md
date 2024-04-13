@@ -6,18 +6,7 @@
 
 I'm a Software Engineer who loves working on both Full-Stack & Mobile Development. I enjoy creating user friendly solutions and I'm always up for new challenges and collaborations. My focus is on delivering high quality work that goes beyond expectations.
 
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: [zejnullahulisi@outlook.com]
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
 
