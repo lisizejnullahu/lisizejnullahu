@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a Software Engineer who loves working on both Full-Stack & Mobile Development. I enjoy creating user friendly solutions and I'm always up for new challenges and collaborations. My focus is on delivering high quality work that goes beyond expectations.
+I'm a Software Engineer who loves working on both Full-Stack & Mobile Development. I enjoy creating user friendly solutions and I'm always up for new challenges and collaborations. 
 
 - 📫 &nbsp; Reach me out: [zejnullahulisi@outlook.com]
 
