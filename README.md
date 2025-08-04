@@ -4,11 +4,7 @@
 
 ### About
 
-Senior full-stack engineer delivering end-to-end products across Laravel, Node.js, and React. Strong focus on clean APIs, robust DevOps, and maintainable UIs.
-
-* Sports-betting platform: Next.js / NestJS stack with drag-and-drop wait-list, role hierarchy, and real-time updates via Redis and Firebase.  
-* Messaging & push service: replaced Pusher with a Laravel + Redis Socket.IO gateway, cutting latency 75 % and costs 85 %.  
-* SaaS upgrade: migrated a multi-tenant platform from Laravel 8 to 12 and PHP 8.3 with zero downtime.
+Senior full-stack engineer delivering end to end products across Laravel, Node.js, and React. Strong focus on clean APIs, robust DevOps, and maintainable UIs.
 
 ### Current focus
 
