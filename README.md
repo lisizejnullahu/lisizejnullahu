@@ -6,7 +6,7 @@
 
 I'm a Software Engineer who loves working on both Full-Stack & Mobile Development. I enjoy creating user friendly solutions and I'm always up for new challenges and collaborations. 
 
-- 📫 &nbsp; Reach me out: [zejnullahulisi@outlook.com]
+- 📫 &nbsp; Reach me out: [lisizejnullahu24@gmail.com]
 
 ### Languages and Tools:
 
