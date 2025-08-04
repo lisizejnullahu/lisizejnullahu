@@ -33,6 +33,7 @@ Senior full-stack engineer delivering end to end products across Laravel, Node.j
 
 * Email: lisizejnullahu24@gmail.com  
 * LinkedIn: https://www.linkedin.com/in/lisizejnullahu
+* Website: https://lisizejnullahu.com
 
 ---
 
