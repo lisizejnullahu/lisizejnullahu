@@ -4,37 +4,39 @@
 
 ### About
 
-Senior full-stack engineer delivering end to end products across Laravel, Node.js, and React. Strong focus on clean APIs, robust DevOps, and maintainable UIs.
+Backend-focused engineer building secure APIs and multi-tenant systems across Laravel, NestJS, and Next.js. Emphasis on authentication/authorization, tenant-scoped access, audit logging, and reliable deployments.
 
 ### Current focus
 
-* Server-side features with NestJS and Laravel Sanctum  
-* CI/CD automation on AWS ECS using GitHub Actions and Terraform  
-* High-performance C++ for finance applications
+* Security-first backend systems (Laravel Sanctum, RBAC, audit trails)
+* CI/CD automation and infrastructure (AWS ECS/Fargate, GitHub Actions, Terraform)
+* Performance fundamentals (C++ for finance-style workloads)
 
 ### Skills snapshot
 
 | Area          | Tools & Frameworks                                    |
 |---------------|-------------------------------------------------------|
-| Languages     | PHP, JavaScript/TypeScript, Python, SQL, Bash         |
+| Languages     | PHP, TypeScript/JavaScript, Python, SQL, Bash, C++     |
 | Back-end      | Laravel, NestJS, Node.js, Express                     |
 | Front-end     | React, Next.js, Vue, React Native, TailwindCSS        |
-| DevOps        | Docker, AWS Fargate/ECS, Terraform, GitHub Actions    |
+| DevOps        | Docker, AWS ECS/Fargate, Terraform, GitHub Actions    |
 | Datastores    | MySQL, PostgreSQL, Redis, MongoDB                     |
-| Observability | Grafana Loki, Clockwork, Sentry                       |
+| Observability | Sentry, Grafana/Loki, Clockwork                       |
 
 ### Selected repositories
 
-* **role-hierarchy-laravel** – hierarchical RBAC with audit logs and creator-chain tracking  
-* **react-drag-drop-waitlist** – production-ready drag-and-drop queue component  
-* **fcm-laravel-notifier** – Firebase Admin SDK wrapper for structured notification pipelines
+* **ShiftTrace** – multi-tenant security event platform (RBAC, auditability, tenant-scoped access)
+* **shifttrace-console** – analytics console (Next.js, TypeScript, dashboard state + API boundaries)
+* **SecretHound** – secret discovery and hygiene workflows to reduce accidental key exposure
+* **role-hierarchy-laravel** – hierarchical RBAC with audit logs and creator-chain tracking
+* **react-drag-drop-waitlist** – production-ready drag-and-drop queue component
 
 ### Contact
 
-* Email: lisizejnullahu24@gmail.com  
+* Email: lisizejnullahu24@gmail.com
 * LinkedIn: https://www.linkedin.com/in/lisizejnullahu
 * Website: https://lisizejnullahu.com
 
 ---
 
-Always open to challenging problems and straightforward collaboration.
+Open to application security and backend engineering roles.
