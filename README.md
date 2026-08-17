@@ -1,45 +1,48 @@
 # Lisi Zejnullahu
 
-Backend-focused engineer building secure APIs, real-time systems, and production deployments.
+Cloud System Administrator and software engineer focused on secure infrastructure, platform automation, and operational reliability.
 
-Strong focus on authentication and authorization, RBAC, tenant-scoped access, audit logging, secure API design, and maintainable architecture across Laravel, Node.js, and Next.js.
+I work across AWS-hosted Windows and Linux environments, patching, vulnerability remediation, compliance, identity, backups, production operations, and the software that makes those workflows more reliable and auditable.
 
 [Portfolio](https://lisizejnullahu.com) | [LinkedIn](https://www.linkedin.com/in/lisizejnullahu)
 
+## Focus
+
+- Cloud Security
+- Platform Engineering
+- Infrastructure Automation
+
 ## What I Work With
 
-**Security**  
-Authentication and authorization, RBAC and scoped permissions, audit logging, input validation, rate limiting, secure API design
+### Cloud Operations
+AWS, EC2, S3, VPC, IAM, Systems Manager, AWS Backup, Inspector, Security Hub, CloudTrail
 
-**Backend**  
-Laravel, PHP, Node.js, Express, NestJS, Spring Boot
+### Systems & Security
+Windows Server, Linux, RHEL 8/9, Active Directory, patch management, vulnerability remediation, Qualys, CIS hardening
 
-**Frontend**  
-React, Next.js, TypeScript, JavaScript, Tailwind CSS
+### Platform & Automation
+Python, FastAPI, Docker, Jenkins, Ansible, GitHub Actions, CI/CD, REST APIs, workflow automation
 
-**Data**  
-PostgreSQL, MySQL, MongoDB, Redis
+### Software Engineering
+React, Next.js, TypeScript, JavaScript, Laravel, PHP, Node.js, PostgreSQL, MySQL, Redis
 
-**DevOps & Cloud**  
-Docker, AWS, Terraform, GitHub Actions, CI/CD, DigitalOcean, Swagger/OpenAPI
+## Selected Work
 
-## Selected Projects
+### Cloud Operations Automation Platform
+Private platform designed and built to improve the reliability, consistency, and auditability of cloud maintenance and vulnerability-management operations.
 
-### [ShiftTrace](https://github.com/lisizejnullahu/ShiftTrace)
-Multi-tenant access monitoring platform with organization-scoped RBAC, audit logging, secure event ingestion, and security-focused API boundaries.
+The system replaces fragmented manual procedures with controlled workflows, validation, reporting, and operational evidence.
 
-### [ShiftTrace Console](https://github.com/lisizejnullahu/shifttrace-console)
-Next.js and TypeScript security analytics console with auth-aware flows, reusable API boundaries, and role-gated views.
+Source and implementation details are not public.
 
 ### [SecretHound](https://github.com/lisizejnullahu/SecretHound)
-Security-focused project for discovering leaked secrets across code, configuration, and container workflows, with risk scoring and remediation guidance.
+Security tooling for finding exposed credentials in source code and supporting the workflow around triaging and remediating what it finds.
 
-## Engineering Approach
+## Background
 
-- Clarify requirements, constraints, and risk before implementation.
-- Design clean boundaries and maintainable data flows.
-- Build secure defaults into authentication, authorization, validation, and auditing.
-- Automate delivery and improve systems through iteration.
+I started in software and moved toward the infrastructure it runs on.
+
+Today my work sits across cloud operations, systems administration, security, automation, and software engineering. I am most interested in the areas where cloud infrastructure, security, platform engineering, and software development overlap.
 
 ## Contact
 
