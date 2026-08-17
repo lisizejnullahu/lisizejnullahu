@@ -1,42 +1,48 @@
-## Hi, I'm Lisi
+# Lisi Zejnullahu
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-lisizejnullahu-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisizejnullahu/)
+Backend-focused engineer building secure APIs, real-time systems, and production deployments.
 
-### About
+Strong focus on authentication and authorization, RBAC, tenant-scoped access, audit logging, secure API design, and maintainable architecture across Laravel, Node.js, and Next.js.
 
-Backend-focused engineer building secure APIs and multi-tenant systems across Laravel, NestJS, and Next.js. Emphasis on authentication/authorization, tenant-scoped access, audit logging, and reliable deployments.
+[Portfolio](https://lisizejnullahu.com) | [LinkedIn](https://www.linkedin.com/in/lisizejnullahu)
 
-### Current focus
+## What I Work With
 
-* Security-first backend systems (Laravel Sanctum, RBAC, audit trails)
-* CI/CD automation and infrastructure (AWS ECS/Fargate, GitHub Actions, Terraform)
-* Performance fundamentals (C++ for finance-style workloads)
+**Security**  
+Authentication and authorization, RBAC and scoped permissions, audit logging, input validation, rate limiting, secure API design
 
-### Skills snapshot
+**Backend**  
+Laravel, PHP, Node.js, Express, NestJS, Spring Boot
 
-| Area          | Tools & Frameworks                                    |
-|---------------|-------------------------------------------------------|
-| Languages     | PHP, TypeScript/JavaScript, Python, SQL, Bash, C++     |
-| Back-end      | Laravel, NestJS, Node.js, Express                     |
-| Front-end     | React, Next.js, Vue, React Native, TailwindCSS        |
-| DevOps        | Docker, AWS ECS/Fargate, Terraform, GitHub Actions    |
-| Datastores    | MySQL, PostgreSQL, Redis, MongoDB                     |
-| Observability | Sentry, Grafana/Loki, Clockwork                       |
+**Frontend**  
+React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
-### Selected repositories
+**Data**  
+PostgreSQL, MySQL, MongoDB, Redis
 
-* **ShiftTrace** – multi-tenant security event platform (RBAC, auditability, tenant-scoped access)
-* **shifttrace-console** – analytics console (Next.js, TypeScript, dashboard state + API boundaries)
-* **SecretHound** – secret discovery and hygiene workflows to reduce accidental key exposure
-* **role-hierarchy-laravel** – hierarchical RBAC with audit logs and creator-chain tracking
-* **react-drag-drop-waitlist** – production-ready drag-and-drop queue component
+**DevOps & Cloud**  
+Docker, AWS, Terraform, GitHub Actions, CI/CD, DigitalOcean, Swagger/OpenAPI
 
-### Contact
+## Selected Projects
 
-* Email: lisizejnullahu24@gmail.com
-* LinkedIn: https://www.linkedin.com/in/lisizejnullahu
-* Website: https://lisizejnullahu.com
+### [ShiftTrace](https://github.com/lisizejnullahu/ShiftTrace)
+Multi-tenant access monitoring platform with organization-scoped RBAC, audit logging, secure event ingestion, and security-focused API boundaries.
 
----
+### [ShiftTrace Console](https://github.com/lisizejnullahu/shifttrace-console)
+Next.js and TypeScript security analytics console with auth-aware flows, reusable API boundaries, and role-gated views.
 
-Open to application security and backend engineering roles.
+### [SecretHound](https://github.com/lisizejnullahu/SecretHound)
+Security-focused project for discovering leaked secrets across code, configuration, and container workflows, with risk scoring and remediation guidance.
+
+## Engineering Approach
+
+- Clarify requirements, constraints, and risk before implementation.
+- Design clean boundaries and maintainable data flows.
+- Build secure defaults into authentication, authorization, validation, and auditing.
+- Automate delivery and improve systems through iteration.
+
+## Contact
+
+- Website: https://lisizejnullahu.com
+- LinkedIn: https://www.linkedin.com/in/lisizejnullahu
+- Email: lisizejnullahu24@gmail.com
